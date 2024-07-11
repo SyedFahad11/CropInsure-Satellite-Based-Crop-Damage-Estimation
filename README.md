@@ -22,7 +22,7 @@ By addressing the data gap and providing valuable insights, this project aims to
 
 **Index insurance (or parametric insurance)** is a novel type of insurance that is increasingly being advanced in data-poor environments due to its scalability and low cost. Index insurance contracts use observational data of a hazard (e.g., station or satellite-based rainfall, temperature, wind, or flood measurements) to assess hazard frequency and magnitude over time and create a damage index of that hazard. Thresholds are set on this index at various exceedance probabilities to trigger predetermined payouts based on expected financial losses. This methodology reduces transaction costs compared to traditional insurance—which requires individual assessment of each household—and thereby enables affordable premiums accessible to uninsured and low-income populations.
 
-# Sentinel-1 Flood Detection Algorithm
+# Part-1: Sentinel-1 Flood Detection Algorithm
 
 ## Overview
 
@@ -63,7 +63,7 @@ The algorithm uses various satellite datasets:
 * [IEEE Reference Paper for index based flood detection](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10042166)
 * [Sentinel-1 Dataset](https://osf.io/tgrx4/)
 
-# Establishment of a Comprehensive Drought Monitoring Index
+# Part-2: Establishment of a Comprehensive Drought Monitoring Index
 
 ## Overview
 
