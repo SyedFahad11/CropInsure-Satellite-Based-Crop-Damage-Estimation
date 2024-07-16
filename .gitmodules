@@ -1,0 +1,6 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/SyedFahad11/CropInsure-Server.git
+[submodule "Client"]
+	path = Client
+	url = https://github.com/SyedFahad11/CropInsure-Client.git
